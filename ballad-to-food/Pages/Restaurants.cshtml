@@ -1,0 +1,9 @@
+﻿@page
+@model ballad_to_food.Pages.RestaurantsModel
+
+<ul>
+@foreach (var restaurant in Model.Restaurants)
+{
+    <li>@restaurant.Name</li>
+}
+</ul>

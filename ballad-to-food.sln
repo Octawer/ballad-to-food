@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ballad-to-food", "ballad-to-food\ballad-to-food.csproj", "{36FEBDC2-82DF-4495-BB0C-FF5CB816686E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ballad-to-food.Core", "ballad-to-food.Core\ballad-to-food.Core.csproj", "{A5045915-1851-4C80-A41F-C233E2B2CF72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ballad-to-food.Core", "ballad-to-food.Core\ballad-to-food.Core.csproj", "{A5045915-1851-4C80-A41F-C233E2B2CF72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ballad-to-food.Data", "ballad-to-food.Data\ballad-to-food.Data.csproj", "{1BC9E2B3-74F3-4C95-A16C-E767B6D9ACC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ballad-to-food.Data", "ballad-to-food.Data\ballad-to-food.Data.csproj", "{1BC9E2B3-74F3-4C95-A16C-E767B6D9ACC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

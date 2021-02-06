@@ -5,4 +5,8 @@
     <RootNamespace>ballad_to_food</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ballad-to-food.Data\ballad-to-food.Data.csproj" />
+  </ItemGroup>
+
 </Project>
